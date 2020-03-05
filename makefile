@@ -1,5 +1,8 @@
 info:
 	-@echo 'makefile simples criado por Diefesson de Sousa Silva(diefesson.so@gmail.com)'
+	-@echo 'produzido com intuito educacional de prover um makefile simples e legivel'
+	-@echo 'que possa ser usado no desenvolvimento de pequenos projetos e '
+	-@echo 'auxiliar desenvolvedores que estão aprendedo a usar a ferramenta make'
 	-@echo 'versao de 05/03/20'
 	-@echo 'inspirado na estrutura de arquivos de administradores de projeto Java(ex. Maven)'
 	-@echo 'para preparar o projeto execute "make setup"'
